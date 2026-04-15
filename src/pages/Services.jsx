@@ -9,7 +9,10 @@ import {
   FaRobot, FaWifi, FaVrCardboard, FaCogs, FaGlobe,
   FaArrowRight
 } from 'react-icons/fa';
-import heroVideo from '../assets/hero-video.mp4';
+
+// Video imported from CDN (no local file)
+const heroVideoUrl = "https://cdn.pixabay.com/video/2022/10/02/133285-756241206_medium.mp4";
+
 // Images import (directly from assets folder)
 import seoContentImg from '../assets/seo-content.jpg';
 import videoAnimationImg from '../assets/video-animation.jpg';
@@ -17,9 +20,6 @@ import videoAnimationImg from '../assets/video-animation.jpg';
 function Services() {
   const [, setHoveredCard] = useState(null);
   const videoRef = useRef(null);
-
-  const heroVideoUrl = heroVideo;
-
 
   const services = [
     { 
