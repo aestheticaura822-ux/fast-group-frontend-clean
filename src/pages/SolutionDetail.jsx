@@ -8,9 +8,10 @@ import {
   FaChartBar, FaCog
 } from 'react-icons/fa';
 
-import chatbotVideo from '../assets/chatbot.mp4';
-import workflowVideo from '../assets/workflow.mp4';  
-import aiAgentsVideo from '../assets/ai-agents.mp4';
+const chatbotVideo = "https://cdn.pixabay.com/video/2023/05/02/161359-823146756_medium.mp4";
+const workflowVideo = "https://cdn.pixabay.com/video/2026/04/02/344105_medium.mp4";
+const aiAgentsVideo = "https://cdn.pixabay.com/video/2023/05/02/161359-823146756_medium.mp4";
+
 
 function SolutionDetail() {
   const { id } = useParams();

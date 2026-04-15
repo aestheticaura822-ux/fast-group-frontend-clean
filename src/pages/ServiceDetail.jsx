@@ -30,27 +30,26 @@ import {
   FaArrowRight,
 } from "react-icons/fa";
 
-// Video Imports from assets folder
-import digitalMarketingVideo from '../assets/digital-marketing.mp4';
-import ecommerceVideo from '../assets/ecommerce.mp4';
-import softwareDevelopmentVideo from '../assets/software-development.mp4';
-import uiUxDesignVideo from '../assets/ui-ux-design.mp4';
-import brandingVideo from '../assets/branding.mp4';
-import cloudHostingVideo from '../assets/cloud-hosting.mp4';
-import seoContentVideo from '../assets/digital-marketing.mp4';
-import mobileAppsVideo from '../assets/mobile-apps.mp4';
-import webDevelopmentVideo from '../assets/web-development.mp4';
-import videoAnimationVideo from '../assets/video-animation.mp4';
-import leadGenerationVideo from '../assets/digital-marketing.mp4';
-import cybersecurityVideo from '../assets/software-development.mp4';
-import graphicDesigningVideo from '../assets/ui-ux-design.mp4';
-import dataScienceVideo from '../assets/video-animation.mp4';
-import aiMlVideo from '../assets/video-animation.mp4';
-import iotSolutionsVideo from '../assets/software-development.mp4';
-import arVrVideo from '../assets/video-animation.mp4';
-import rpaSolutionsVideo from '../assets/software-development.mp4';
-import metaverseVideo from '../assets/software-development.mp4';
-
+// CDN Video URLs (Working - No local files needed)
+const digitalMarketingVideo = "https://cdn.pixabay.com/video/2019/03/21/22192-326722755_medium.mp4";
+const ecommerceVideo = "https://cdn.pixabay.com/video/2021/09/29/90251-620258654_medium.mp4";
+const softwareDevelopmentVideo = "https://cdn.pixabay.com/video/2023/08/01/174086-850404739_medium.mp4";
+const uiUxDesignVideo = "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_medium.mp4";
+const brandingVideo = "https://cdn.pixabay.com/video/2019/03/20/22135-325481684_medium.mp4";
+const cloudHostingVideo = "https://cdn.pixabay.com/video/2019/12/06/29879-377759955_medium.mp4";
+const seoContentVideo = "https://cdn.pixabay.com/video/2019/03/21/22192-326722755_medium.mp4";
+const mobileAppsVideo = "https://cdn.pixabay.com/video/2022/08/17/128210-747086064_medium.mp4";
+const webDevelopmentVideo = "https://cdn.pixabay.com/video/2017/06/19/10066-222361320_medium.mp4";
+const videoAnimationVideo = "https://cdn.pixabay.com/video/2016/09/13/5130-183300011_medium.mp4";
+const leadGenerationVideo = "https://cdn.pixabay.com/video/2019/03/21/22192-326722755_medium.mp4";
+const cybersecurityVideo = "https://cdn.pixabay.com/video/2026/03/14/340193_medium.mp4";
+const graphicDesigningVideo = "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_medium.mp4";
+const dataScienceVideo = "https://cdn.pixabay.com/video/2024/06/06/215500_medium.mp4";
+const aiMlVideo = "https://cdn.pixabay.com/video/2024/06/10/216098_medium.mp4";
+const iotSolutionsVideo = "https://cdn.pixabay.com/video/2025/02/25/260943_medium.mp4";
+const arVrVideo = "https://cdn.pixabay.com/video/2025/04/07/270312_medium.mp4";
+const rpaSolutionsVideo = "https://cdn.pixabay.com/video/2025/02/25/260943_medium.mp4";
+const metaverseVideo = "https://cdn.pixabay.com/video/2025/04/07/270312_medium.mp4";
 // Images import
 import seoContentImg from '../assets/seo-content.jpg';
 import videoAnimationImg from '../assets/video-animation.jpg';
