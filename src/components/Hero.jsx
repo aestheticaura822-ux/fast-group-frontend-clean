@@ -2,7 +2,7 @@ import React, { useRef, useState, useEffect } from 'react';
 import { FaPlay, FaPause, FaArrowRight } from 'react-icons/fa';
 // eslint-disable-next-line no-unused-vars
 import { motion } from 'framer-motion';
-import heroVideo from '../assets/hero.mp4';
+const heroVideo = "https://cdn.pixabay.com/video/2017/01/12/7249-199191048_medium.mp4";
 import { Link } from 'react-router-dom';
 function Hero() {
   const videoRef = useRef(null);
