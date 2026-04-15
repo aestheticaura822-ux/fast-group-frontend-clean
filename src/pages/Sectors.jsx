@@ -49,7 +49,7 @@ function Sectors() {
       fullDesc: 'State-of-the-art printing facilities offering custom packaging, offset printing, and branding materials that make your products stand out.',
       features: ['Custom Packaging', 'Offset Printing', 'Branding Materials', '3D Prototyping'],
       website: 'https://fastprinting.com',
-      bgImage: 'https://images.unsplash.com/photo-1562329264-87cd7a19d147?w=800&h=500&fit=crop',
+      bgImage: 'https://www.packagingworldinsights.com/wp-content/uploads/2026/03/High-speed-label-printing-1.webp',
       color: 'from-green-500 to-emerald-600',
       achievements: '1M+ Units Produced'
     },
