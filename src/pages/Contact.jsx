@@ -151,8 +151,8 @@ function Contact() {
                 <FaPhone className="text-xl sm:text-2xl text-red-600 group-hover:text-white transition-colors" />
               </div>
               <h3 className="text-base sm:text-lg md:text-xl font-bold mb-1 sm:mb-2">Phone / WhatsApp</h3>
-              <p className="text-gray-600 text-xs sm:text-sm mb-1">+92 325 2467463</p>
-              <p className="text-gray-600 text-xs sm:text-sm">+92 321 0846667</p>
+              <p className="text-gray-600 text-xs sm:text-sm mb-1">+92 331 7924742</p>
+              <p className="text-gray-600 text-xs sm:text-sm">+92 331 7924742</p>
               <p className="text-xs text-gray-400 mt-1 sm:mt-2">Available Mon-Fri, 9am-6pm</p>
             </motion.div>
 
@@ -167,7 +167,7 @@ function Contact() {
                 <FaEnvelope className="text-xl sm:text-2xl text-red-600 group-hover:text-white transition-colors" />
               </div>
               <h3 className="text-base sm:text-lg md:text-xl font-bold mb-1 sm:mb-2">Email</h3>
-              <p className="text-gray-600 text-xs sm:text-sm break-all">xfastgroup001@gmail.com</p>
+              <p className="text-gray-600 text-xs sm:text-sm break-all">fastmediaagencyofficial@gmail.com</p>
               <p className="text-xs text-gray-400 mt-1 sm:mt-2">Response within 24 hours</p>
             </motion.div>
 
