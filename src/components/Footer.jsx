@@ -3,7 +3,7 @@ import { FaMapMarkerAlt, FaPhone, FaEnvelope, FaWhatsapp, FaFacebook, FaTwitter,
 
 function Footer() {
   // WhatsApp number (remove + and special characters)
-  const whatsappNumber = '923317924742'; // +92 325 2467463 → 923252467463
+  const whatsappNumber = '1(604)2396141'; // +92 325 2467463 → 923252467463
   
   // WhatsApp chat link
   
@@ -31,11 +31,11 @@ function Footer() {
             <div className="space-y-3">
               <p className="flex items-start gap-3 text-sm">
                 <FaMapMarkerAlt className="text-red-500 mt-1 flex-shrink-0" />
-                <span>101A, J1 Block, Valencia Town Main Defence Road, Lahore, Pakistan</span>
+                <span>101 Queen Street, West Toronto ON M5H 2N1 CANADA</span>
               </p>
               <p className="flex items-center gap-3 text-sm">
                 <FaPhone className="text-red-500" />
-                <span>+92 331 7924742</span>
+                <span>+1 (604) 239-6141</span>
               </p>
               <p className="flex items-center gap-3 text-sm">
                 <FaEnvelope className="text-red-500" />

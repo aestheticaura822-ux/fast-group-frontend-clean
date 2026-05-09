@@ -150,9 +150,9 @@ function Contact() {
               <div className="w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4 group-hover:bg-red-600 transition-colors duration-300">
                 <FaPhone className="text-xl sm:text-2xl text-red-600 group-hover:text-white transition-colors" />
               </div>
-              <h3 className="text-base sm:text-lg md:text-xl font-bold mb-1 sm:mb-2">Phone / WhatsApp</h3>
-              <p className="text-gray-600 text-xs sm:text-sm mb-1">+92 331 7924742</p>
-              <p className="text-gray-600 text-xs sm:text-sm">+92 331 7924742</p>
+              <h3 className="text-base sm:text-lg md:text-xl font-bold mb-1 sm:mb-2">WhatsApp</h3>
+              <p className="text-gray-600 text-xs sm:text-sm mb-1">+1 (604) 239-6141</p>
+              <p className="text-gray-600 text-xs sm:text-sm"></p>
               <p className="text-xs text-gray-400 mt-1 sm:mt-2">Available Mon-Fri, 9am-6pm</p>
             </motion.div>
 
@@ -182,8 +182,7 @@ function Contact() {
                 <FaMapMarkerAlt className="text-xl sm:text-2xl text-red-600 group-hover:text-white transition-colors" />
               </div>
               <h3 className="text-base sm:text-lg md:text-xl font-bold mb-1 sm:mb-2">Office</h3>
-              <p className="text-gray-600 text-xs sm:text-sm">101A, J1 Block, Valencia Town</p>
-              <p className="text-gray-600 text-xs sm:text-sm">Main Defence Road, Lahore, Pakistan</p>
+              <p className="text-gray-600 text-xs sm:text-sm">101 Queen Street, West Toronto ON M5H 2N1 CANADA</p>
             </motion.div>
 
             {/* Business Hours */}
