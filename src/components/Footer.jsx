@@ -3,7 +3,7 @@ import { FaMapMarkerAlt, FaPhone, FaEnvelope, FaWhatsapp, FaFacebook, FaTwitter,
 
 function Footer() {
   // WhatsApp number (remove + and special characters)
-  const whatsappNumber = '1(604)2396141'; // +92 325 2467463 → 923252467463
+  const whatsappNumber = '16042396141'; // +92 325 2467463 → 923252467463
   
   // WhatsApp chat link
   
